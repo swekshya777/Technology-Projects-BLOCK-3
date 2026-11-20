@@ -14,14 +14,13 @@ Run:
 
 ### Questions
 
-1.  Who owns the file?
-2.  What are the default permissions?
+1.  Who owns the file? ans: The file is owned by Kritika Tamang Lama and Swekshya Upreti.
+2.  What are the default permissions? ans:The default permission are rw-rw-r--(664)
 
 ### Reflection
 
 Why is file ownership important in Linux systems?
-
-------------------------------------------------------------------------
+File ownership is important in linux because it controls who can read, write, and access files. It helps protect important information.
 
 ## Task 2 --- Restrict File Permissions
 
@@ -37,8 +36,8 @@ Run:
 
 ### Questions
 
-1.  Who can read the file now?
-2.  Who cannot access it?
+1.  Who can read the file now? ans: The owner.
+2.  Who cannot access it? ans: Group members and other users cannot read or write the file.
 
 
 ------------------------------------------------------------------------
@@ -57,6 +56,7 @@ Run:
 
 ### Questions
 
-1.  Who can access the file now?
-2.  Why might this configuration be dangerous?
+1.  Who can access the file now? ans: The owner, group members, and other users can read, write, and execute the file.
+2.  Why might this configuration be dangerous? ans: It is dangerous because anyone with access can modify or execute the file, which can create security risks.
+
 
