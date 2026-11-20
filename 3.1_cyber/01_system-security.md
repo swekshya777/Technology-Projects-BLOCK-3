@@ -31,7 +31,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="859" height="950" alt="image" src="https://github.com/user-attachments/assets/f848d038-3e87-4207-a4fd-2998ecc4cf84" />
+
 
 ### Questions
 
@@ -53,7 +54,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+
+<img width="733" height="1009" alt="image" src="https://github.com/user-attachments/assets/a96b84b5-05d4-488b-a26f-ea0bfe3f4920" />
 
 ### Questions
 
