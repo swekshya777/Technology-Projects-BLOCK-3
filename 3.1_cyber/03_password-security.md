@@ -8,7 +8,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="601" height="461" alt="image" src="https://github.com/user-attachments/assets/cce1c471-07a4-4568-afc6-6b8f17f5179f" />
+
 
 ### Questions
 
@@ -29,7 +30,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="601" height="34" alt="image" src="https://github.com/user-attachments/assets/672b0f16-a4b4-4dcf-b850-b34a8fdff020" />
+
 
 ### Questions
 
